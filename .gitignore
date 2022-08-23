@@ -1,0 +1,13 @@
+mooc-java-programming-i/**/.idea
+mooc-java-programming-i/**/target
+
+
+mooc-java-programming-ii/**/.idea
+mooc-java-programming-ii/**/target
+
+*.class
+*.jar
+*.war
+*.ear
+*.logs
+*.iml

@@ -1,0 +1,6 @@
+nogi:legs
+alla oleva:below
+ruki:hands
+golova:head
+apina:monkey
+olut:beer
